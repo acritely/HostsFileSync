@@ -1,5 +1,5 @@
 #
-# Host File Sync script
+# Hosts File Sync script
 # Sean Hannon 2016
 #
 # retrieves host file from someonewhocares.org
